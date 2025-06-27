@@ -4,7 +4,7 @@
 
 ## 🌐 公開サイト
 
-[https://yourname.github.io/portfolio/](https://github.com/MoneHirobe/portfolio.git)
+[(https://github.com/MoneHirobe/portfolio.git)](https://github.com/MoneHirobe/portfolio.git)
 
 ## 📁 ページ構成
 
